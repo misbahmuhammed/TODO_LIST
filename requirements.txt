@@ -131,7 +131,7 @@ pycparser==2.21
 Pygments==2.13.0
 PyJWT==2.4.0
 pyparsing==3.0.9
-
+pypiwin32==223
 PyQt5==5.15.7
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.11.0
@@ -142,7 +142,7 @@ python-json-logger==2.0.4
 python3-openid==3.2.0
 pytz==2022.6
 PyWavelets==1.4.1
-pywin32==305
+
 pywin32-ctypes==0.2.0
 pywinpty==2.0.9
 PyYAML==6.0
